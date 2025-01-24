@@ -1,5 +1,5 @@
 ## Hello, World! 🌏👋 I'm Sirisha
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/saisirisha5/saisirisha5/blob/main/Sai%20Sirisha%20Devi%20Prabhala.jpg" width="700" height="350" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/saisirisha5/saisirisha5/blob/main/Sai%20Sirisha%20Devi%20Prabhala.jpg" width="800" height="400" /></a>
 - 👩‍🎓 Undergrad at KL Deemed to be University
 - 🌐 Learning **Web development technologies (Django,Node.js,Spring)**
 - 🚀 Enjoy learning **Artificial Intelligence** and **Machine Learning**.
