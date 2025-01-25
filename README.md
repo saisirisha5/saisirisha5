@@ -30,7 +30,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;● Matches mentors with mentees for personalized coaching, session scheduling and user progress tracking.</br>
 
-<img src="https://github.com/user-attachments/assets/b6ac7c71-bb8e-4163-a397-94d7133c31d9" alt="image" width="23" height="23"> [**Face Recognition Attendance System - Using ESP32**](https://github.com/saisirisha5/Face-Recognition-using-ESP32.git)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Aug 2024 - Dec 2024**
+<img src="https://github.com/user-attachments/assets/b6ac7c71-bb8e-4163-a397-94d7133c31d9" alt="image" width="23" height="23"> [**Smart Attendance System with Face Recognition**](https://github.com/saisirisha5/Face-Recognition-using-ESP32.git)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Aug 2024 - Dec 2024**
 
 &nbsp;&nbsp;&nbsp;&nbsp;● Using Python & Embedded C.</br>
 
