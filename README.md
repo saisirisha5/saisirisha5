@@ -8,7 +8,7 @@
 ## 📧 Contact Information
 <img src="https://github.com/user-attachments/assets/caa53968-a700-459b-bafc-615e4ce5f602" alt="image" width="15" height="15"> **Gmail** : 2200030081cseh@gmail.com </br>
 
-<img src="https://github.com/user-attachments/assets/59b8aa5d-7867-48ad-ab3c-276b06854450" alt="image" width="17" height="17"> **LinkedIn** : [@sai-sirisha-devi](www.linkedin.com/in/sai-sirisha-devi)</br>
+<img src="https://github.com/user-attachments/assets/59b8aa5d-7867-48ad-ab3c-276b06854450" alt="image" width="17" height="17"> **LinkedIn** : [@sai-sirisha-devi](https://www.linkedin.com/in/sai-sirisha-devi/)</br>
 
 <img src="https://github.com/user-attachments/assets/61ed64cc-4065-470d-98a7-73acc68a0db9" alt="image" width="19" height="19"> **Phone** :+91-6281186348
 ## 👩🏻‍💻Academic Projects
