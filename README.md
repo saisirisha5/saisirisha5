@@ -12,7 +12,7 @@
 
 <img src="https://github.com/user-attachments/assets/61ed64cc-4065-470d-98a7-73acc68a0db9" alt="image" width="19" height="19"> **Phone** :+91-6281186348
 ## 👩🏻‍💻Academic Projects
-<img src="https://github.com/user-attachments/assets/b7a7b054-5c50-4ca0-b360-ddae0a6946d3" alt="image" width="23" height="23"> [**SmartSpend - An E-Commerce Platform**](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dec 2023 - Apr 2024** </br>
+<img src="https://github.com/user-attachments/assets/b7a7b054-5c50-4ca0-b360-ddae0a6946d3" alt="image" width="23" height="23"> [**SmartSpend - An E-Commerce Platform**](https://github.com/saisirisha5/SmartSpend.git)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dec 2023 - Apr 2024** </br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;●	Web-based Application. </br>
 
