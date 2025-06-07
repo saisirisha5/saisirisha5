@@ -12,6 +12,16 @@
 
 <img src="https://github.com/user-attachments/assets/61ed64cc-4065-470d-98a7-73acc68a0db9" alt="image" width="19" height="19"> **Phone** :+91-6281186348
 ## 👩🏻‍💻Academic Projects
+<img src="https://github.com/user-attachments/assets/b6ac7c71-bb8e-4163-a397-94d7133c31d9" alt="image" width="23" height="23"> [**Smart Attendance System with Face Recognition**](https://github.com/saisirisha5/Face-Recognition-using-ESP32.git)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dec 2024 - Apr 2025**
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Using Python & Embedded C.</br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Face recognition attendance system using ESP32 CAM.</br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Logs attendance into Google Firebase.</br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Interactive User Interface using Django.</br>
+
 <img src="https://github.com/user-attachments/assets/b7a7b054-5c50-4ca0-b360-ddae0a6946d3" alt="image" width="23" height="23"> [**SmartSpend - An E-Commerce Platform**](https://github.com/saisirisha5/SmartSpend.git)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dec 2023 - Apr 2024** </br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;●	Web-based Application. </br>
@@ -29,15 +39,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;● Implementing REST API's to manage user roles and session data.</br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;● Matches mentors with mentees for personalized coaching, session scheduling and user progress tracking.</br>
-
-<img src="https://github.com/user-attachments/assets/b6ac7c71-bb8e-4163-a397-94d7133c31d9" alt="image" width="23" height="23"> [**Smart Attendance System with Face Recognition**](https://github.com/saisirisha5/Face-Recognition-using-ESP32.git)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Aug 2024 - Dec 2024**
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Using Python & Embedded C.</br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Face recognition attendance system using ESP32 CAM.</br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Logs person info and time duration in Microsoft Excel.</br>
-
 
 
 <img src="https://github.com/user-attachments/assets/fc0676fd-8aa5-4b54-b547-fb3345e8de07" alt="image" width="23" height="23"> [**Black and White Image Colorization**](https://github.com/saisirisha5/Black-and-white-image-colorization.git)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jan 2024 - Feb 2024**
