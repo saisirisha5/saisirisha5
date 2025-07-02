@@ -22,9 +22,37 @@
 
 - 🎓 Undergrad at KL Deemed to be University  
 - 🌐 Learning **Web development technologies (Django, Node.js, Spring)**  
-- 🚀 Enjoy learning **Artificial Intelligence** and **Machine Learning**  
-- 💻 Interested in **Data Structures and Algorithms (DSA)**  
+- 🚀 Enjoy learning **Artificial Intelligence** and **Machine Learning**
 - 🤖 Exploring the exciting world of **Embedded Systems**
+- 💻 Interested in **Data Structures and Algorithms (DSA)**
+  
+---
+
+### 🌐 Coding Profiles
+
+<table>
+  <tr>
+   <td align="center">
+      <a href="https://leetcode.com/klu_2200030081" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+        <br/><strong>LeetCode</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/saisirisha_25" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="40" height="40"/>
+        <br/><strong>CodeChef</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/klu_2200030081" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40"/>
+        <br/><strong>Codeforces</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -43,11 +71,11 @@
  <img src="https://github.com/user-attachments/assets/b7a7b054-5c50-4ca0-b360-ddae0a6946d3" width="23" height="23" /> [**SmartSpend - An E-Commerce Platform**](https://github.com/saisirisha5/SmartSpend.git) 
  -  A website that allows users to search for products across different online retailers, compare prices, and find the best deals.
 
+ <img src="https://github.com/user-attachments/assets/fc0676fd-8aa5-4b54-b547-fb3345e8de07" width="23" height="23" /> [**Gray2Color**](https://github.com/saisirisha5/Gray2Color.git) 
+  - Built a colorization system using OpenCV and pre-trained neural networks to turn black-and-white images into realistic color photos.
+
  <img src="https://github.com/user-attachments/assets/f8ad625f-5aae-4aad-a224-fc6ce9b79cd6" width="23" height="23" /> [**MentorHive - A Mentor-Mentee Matching Platform**](#)  
    - An intelligent mentorship platform that connects mentors with mentees for personalized coaching, seamless session scheduling, and real-time progress tracking.
-
- <img src="https://github.com/user-attachments/assets/fc0676fd-8aa5-4b54-b547-fb3345e8de07" width="23" height="23" /> [**Black and White Image Colorization**](https://github.com/saisirisha5/Black-and-white-image-colorization.git) 
-  - Built a colorization system using OpenCV and pre-trained neural networks to turn black-and-white images into realistic color photos.
 
  <img src="https://github.com/user-attachments/assets/bec57db9-4b47-465f-93d2-5399ae120f66" width="23" height="23" /> [**Quiz Management System**](https://github.com/saisirisha5/Quiz-Management-System.git) 
  -  Created an online quiz platform supporting multiple admins and teams using RedHat Codeready Studio.
@@ -70,4 +98,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/caa53968-a700-459b-bafc-615e4ce5f602" alt="image" width="15" height="15"> **Gmail** : 2200030081cseh@gmail.com </br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/59b8aa5d-7867-48ad-ab3c-276b06854450" alt="image" width="17" height="17"> **LinkedIn** : [@sai-sirisha-devi](https://www.linkedin.com/in/sai-sirisha-devi/)</br>
+
 
