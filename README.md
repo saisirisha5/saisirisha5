@@ -53,7 +53,6 @@
   </tr>
 </table>
 
-
 ---
 
 ## 🌱 Personal Interests
@@ -74,11 +73,6 @@
  <img src="https://github.com/user-attachments/assets/fc0676fd-8aa5-4b54-b547-fb3345e8de07" width="23" height="23" /> [**Gray2Color**](https://github.com/saisirisha5/Gray2Color.git) 
   - Built a colorization system using OpenCV and pre-trained neural networks to turn black-and-white images into realistic color photos.
 
- <img src="https://github.com/user-attachments/assets/f8ad625f-5aae-4aad-a224-fc6ce9b79cd6" width="23" height="23" /> [**MentorHive - A Mentor-Mentee Matching Platform**](#)  
-   - An intelligent mentorship platform that connects mentors with mentees for personalized coaching, seamless session scheduling, and real-time progress tracking.
-
- <img src="https://github.com/user-attachments/assets/bec57db9-4b47-465f-93d2-5399ae120f66" width="23" height="23" /> [**Quiz Management System**](https://github.com/saisirisha5/Quiz-Management-System.git) 
- -  Created an online quiz platform supporting multiple admins and teams using RedHat Codeready Studio.
 ---
 ## 🛠️ Technical Skills
 
