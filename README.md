@@ -64,7 +64,7 @@
 
 ## 👩🏻‍💻 Academic Projects
 
- <img src="https://github.com/user-attachments/assets/b6ac7c71-bb8e-4163-a397-94d7133c31d9" width="23" height="23" /> [**Real-Time Attendance Monitoring System**](https://github.com/saisirisha5/Real-Time-Attendance-Monitoring-System.git)
+ <img src="https://github.com/user-attachments/assets/b6ac7c71-bb8e-4163-a397-94d7133c31d9" width="23" height="23" /> [**AI-Driven Real-Time Attendance Monitoring System**](https://github.com/saisirisha5/Real-Time-Attendance-Monitoring-System.git)
   - AI-powered attendance system with ESP32-CAM facial recognition, cloud logging via Firebase, and a Django-based dashboard.
 
  <img src="https://github.com/user-attachments/assets/b7a7b054-5c50-4ca0-b360-ddae0a6946d3" width="23" height="23" /> [**SmartSpend - An E-Commerce Platform**](https://github.com/saisirisha5/SmartSpend.git) 
