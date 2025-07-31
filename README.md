@@ -55,6 +55,14 @@
 
 ---
 
+## 🍀 Currently Exploring
+
+- 🐳 Docker
+- 🧩 Advanced Data Structures and Algorithms
+- 💾 Real-Time Embedded Systems
+  
+---
+
 ## 🌱 Personal Interests
 
 - 🌿 Passionate about plants and nature  
