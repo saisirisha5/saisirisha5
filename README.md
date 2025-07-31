@@ -39,9 +39,9 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.codechef.com/users/saisirisha_25" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="40" height="40"/>
-        <br/><strong>CodeChef</strong>
+      <a href="https://www.geeksforgeeks.org/user/saisirisha5/" target="_blank">
+      <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksforGeeks" width="40" height="40" />
+        <br/><strong>GeeksForGeeks</strong>
       </a>
     </td>
     <td align="center">
