@@ -2,7 +2,7 @@
  <h1>Hello, World! 🌏 👋 I'm Sai Sirisha</h1>
 </div>
 <p align="center">
-  <a href="https://saisirishain.vercel.app/" target="_blank">
+  <a href="https://saisirishadevi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2ECC71?style=for-the-badge&logo=react" alt="Portfolio" />
   </a>
 </p>
