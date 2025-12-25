@@ -28,29 +28,14 @@
   
 ---
 
-### 🌐 Coding Profiles
+## 🌐 Coding Profiles
 
 <table>
-  <tr>
-   <td align="center">
-      <a href="https://leetcode.com/u/saisirisha5/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-        <br/><strong>LeetCode</strong>
-      </a>
-    </td>
     <td align="center">
-      <a href="https://www.geeksforgeeks.org/user/saisirisha5/" target="_blank">
-      <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksforGeeks" width="40" height="40" />
-        <br/><strong>GeeksForGeeks</strong>
+      <a href="https://codolio.com/profile/saisirisha5" target="_blank">
+        <img src="https://codolio.com/codolio_assets/codolio.svg" alt="Codolio" width="40" height="40"/>
+        <br/><strong>Codolio</strong>
       </a>
-    </td>
-    <td align="center">
-      <a href="https://codeforces.com/profile/klu_2200030081" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40"/>
-        <br/><strong>Codeforces</strong>
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
