@@ -44,7 +44,6 @@
 
 - 🐳 Docker
 - 🧩 Advanced Data Structures and Algorithms
-- 💾 Real-Time Embedded Systems
   
 ---
 
