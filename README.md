@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="URL_REDIRECT" target="_blank">
-    <img src="https://github.com/saisirisha5/saisirisha5/blob/main/Sai%20Sirisha%20Devi%20Prabhala.jpg" width="800" height="400" />
+    <img src="https://github.com/saisirisha5/saisirisha5/blob/main/Sai%20Sirisha%20Devi%20Prabhala.jpeg" width="800" height="400" />
   </a>
 </p>
 
