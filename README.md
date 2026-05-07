@@ -42,7 +42,6 @@
 
 ## 🍀 Currently Exploring
 
-- 🐳 Docker
 - 🧩 Advanced Data Structures and Algorithms
   
 ---
@@ -57,7 +56,7 @@
 ## 👩🏻‍💻 Academic Projects
 
 <img src="https://img.icons8.com/fluency/48/000000/worldwide-location.png"  width="23" height="23" /> [**Modular Geo-Tagging Attendance System Plugin**](https://github.com/saisirisha5/Modular-Geo-Tagging-Attendance-System-Plugin-.git)
-  - Geolocation based check-in/check-out system with modular architecture using Docker and Nginx.
+  - Geolocation based check-in/check-out system with modular architecture.
 
  <img src="https://github.com/user-attachments/assets/b6ac7c71-bb8e-4163-a397-94d7133c31d9" width="23" height="23" /> [**AI-Driven Real-Time Attendance Monitoring System**](https://github.com/saisirisha5/Real-Time-Attendance-Monitoring-System.git)
   - AI-powered attendance system with ESP32-CAM facial recognition, cloud logging via Firebase, and a Django-based dashboard.
